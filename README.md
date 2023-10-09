@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 - Discord: SusgUY446#5977
-- TikTok: SusgUY446
 - YouTube: SusgUY446
 - Email: susguy446@gmail.com
 
