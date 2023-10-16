@@ -5,6 +5,6 @@
 - 📫 How to reach me 
 - Discord: SusgUY446#5977
 - YouTube: SusgUY446
-- Email: susguy446@gmail.com
+- Email: susguy446@gmail.com (its better to reach me whit discord since in dont check my mail 🥴)
 
 
