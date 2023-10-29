@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **PHP**
 
-- 👨‍💻 All of my projects are available at [susguy446.github.io](susguy446.github.io)
+- 👨‍💻 All of my projects are available at [susguy446.github.io](https://susguy446.github.io)
 
 - 💬 Ask me about **python, html**
 
