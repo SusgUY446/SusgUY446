@@ -19,6 +19,9 @@
 
 - ⚡ Fun fact **I like 🍉**
 
+- Donate to me: 
+  - Monero: 45hMN9AMJp2QuJCgce4Qz42MdLqVnySdXG9PiRZCZGiJJTRoNP5ZhQ52RVKHscodPn5c3H2AXw6QcMyoLeUnqyHL9ifa31U
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/susguy446_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="susguy446_" height="30" width="40" /></a>
