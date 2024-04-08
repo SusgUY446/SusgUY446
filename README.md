@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [susguy446.github.io](https://susguy446.github.io)
 
-- 💬 Ask me about **python, html**
+- 💬 Ask me about **php, python, html**
 
 - 📫 How to reach me **susguy446#5977**
 
