@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on [susguy446-app](github.com/susguy446/susguy446-app)
 
-- 🌱 I’m currently learning **PHP**
+- 🌱 I’m currently learning **C**
 
 - 👨‍💻 All of my projects are available at [susguy446.github.io](https://susguy446.github.io)
 
-- 💬 Ask me about **php, python, html**
+- 💬 Ask me about **C**
 
 - 📫 How to reach me **susguy446#5977**
 
